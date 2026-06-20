@@ -8,7 +8,7 @@ This repository showcases my practical experience and analytical methodology as 
 
 The table below outlines the investigated security incidents. Click on the link in the **Writeup Link** column to view the complete step-by-step technical analysis for each case.
 
-| Case / Alert Type | Verdict | Writeup Link |
+| Case | Verdict | Writeup Link |
 | :--- | :--- | :--- |
 | *SOC104-Malware Detected* | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
 | *SOC109-Emotet Malware Investigation* | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
