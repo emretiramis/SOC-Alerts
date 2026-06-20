@@ -7,11 +7,11 @@ This repository showcases my practical experience and analytical methodology as 
 ## 🎯 Objectives
 
 The primary goal of this repository is to showcase a structured and effective approach to Security Operations and Incident Response. The core objectives include:
-* Continuous Monitoring: Maintaining visibility across the  network, cloud environments, and endpoints to identify anomalous or suspicious behavior.
-* Alert Triage: Reviewing and filtering thousands of automated alerts to distinguish true threats from false positives.
-* Incident Investigation: Analyzing confirmed threats to determine the root cause, scope, and potential business impact of an attack.
-* Threat Response and Containment: Taking immediate action to stop an ongoing attack, isolating compromised systems, and restoring operations.
-* Documentation & Compliance: Recording investigation findings, tuning detection rules, and providing necessary data for security audits and regulatory requirements.
+* **Continuous Monitoring:** Maintaining visibility across the  network, cloud environments, and endpoints to identify anomalous or suspicious behavior.
+* **Alert Triage: Reviewing** and filtering thousands of automated alerts to distinguish true threats from false positives.
+* **Incident Investigation:** Analyzing confirmed threats to determine the root cause, scope, and potential business impact of an attack.
+* **Threat Response and Containment:** Taking immediate action to stop an ongoing attack, isolating compromised systems, and restoring operations.
+* **Documentation & Compliance:** Recording investigation findings, tuning detection rules, and providing necessary data for security audits and regulatory requirements.
 
 ---
 
