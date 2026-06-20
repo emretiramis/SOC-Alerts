@@ -7,11 +7,11 @@ This repository showcases my practical experience and analytical methodology as 
 ## 🎯 Objectives
 
 The primary goal of this repository is to showcase a structured and effective approach to Security Operations and Incident Response. The core objectives include:
-* Analyze endpoint and network logs to quickly separate True Positives (TP) from False Positives (FP) and reduce alert fatigue.
+* Analyze endpoint and network logs to quickly separate True Positives from False Positives and reduce alert fatigue.
 * Investigate authentication logs and monitor Active Directory components (such as domain objects and security groups) to detect unauthorized access or lateral movement.
 * Analyze proxy logs and web traffic to identify malicious activities, including automated scanning or database injection attacks.
 * Correlate internal alerts with external Threat Intelligence (OSINT, IoCs) and use Python to automate log parsing and data enrichment.
-* Use sandbox environments and endpoint logs to analyze malicious files, extract indicators, and detect Command & Control (C2) connections.
+* Use sandbox environments and endpoint logs to analyze malicious files, extract indicators, and detect C2 connections.
 * Execute precise response actions like host isolation or IP blocking, and provide recommendations to improve detection rules.
 
 ---
