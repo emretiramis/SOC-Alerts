@@ -4,7 +4,8 @@ This case demonstrates a SOC investigation of a proxy alert generated. The alert
 
 ## Alert Investigation
 The investigation started by reviewing the proxy alert details and analyzing the requested URL associated with the executable download
-<img width="2160" height="572" alt="image" src="https://github.com/user-attachments/assets/2518cdfd-b553-484f-abed-88bdde1ba624" />
+<img width="2560" height="655" alt="image" src="https://github.com/user-attachments/assets/f6379e2a-1494-42f0-a141-aef5c03530cd" />
+
 
 The suspicious URL was investigated using VirusTotal to determine whether it had any known malicious reputation.
 
@@ -13,8 +14,10 @@ Findings:
 * The URL reputation appeared clean.
 * Further validation showed that the destination was the official WinRAR download page.
 
-<img width="2560" height="1246" alt="image" src="https://github.com/user-attachments/assets/a1c5bcd1-17a3-468b-826e-c7cbec28fdb9" />
-<img width="1474" height="702" alt="image" src="https://github.com/user-attachments/assets/824533cf-b92b-4b78-b05b-47d3ada4f1f4" />
+<img width="2560" height="1238" alt="image" src="https://github.com/user-attachments/assets/038a5fe8-22a4-4ea1-8bcf-9dbea38701d1" />
+
+<img width="1812" height="869" alt="image" src="https://github.com/user-attachments/assets/23817333-3ef1-4c7a-bdd5-f7851e3a620e" />
+
 
 
 The affected endpoint (172.16.17.5) was reviewed for additional suspicious activity.
@@ -24,7 +27,8 @@ Analysis results:
 * No evidence of malware execution.
 * No suspicious persistence or compromise indicators identified.
 
-<img width="1747" height="926" alt="image" src="https://github.com/user-attachments/assets/81c0e7d9-923a-44d0-a3df-d79f426148ab" />
+<img width="2152" height="1138" alt="image" src="https://github.com/user-attachments/assets/5bccb259-0cee-407b-9ac9-a5831fbf02fc" />
+
 
 
 ## Final Assessment
@@ -33,15 +37,16 @@ After completing the investigation, the alert was classified as:
 ✅ False Positive
 
 The activity was determined to be a legitimate software download rather than malicious behavior.
-<img width="909" height="600" alt="image" src="https://github.com/user-attachments/assets/532179d6-4f47-4034-a05d-bc96d50ea69e" />
-<img width="1966" height="648" alt="image" src="https://github.com/user-attachments/assets/3f1e9b31-ccf5-4787-a778-c8f115cc251c" />
-<img width="990" height="456" alt="image" src="https://github.com/user-attachments/assets/642328c7-f48f-4891-bff6-f3124c5e036b" />
-<img width="980" height="386" alt="image" src="https://github.com/user-attachments/assets/73c134f7-9095-4313-abde-0de583291e10" />
+<img width="1041" height="741" alt="image" src="https://github.com/user-attachments/assets/666ccc33-9894-4487-a02b-9318268f51bf" />
+<img width="2189" height="640" alt="image" src="https://github.com/user-attachments/assets/71f66af6-6419-4da4-a89f-25230a247897" />
+<img width="1204" height="551" alt="image" src="https://github.com/user-attachments/assets/c99eca0f-9981-4854-be67-574a961240a3" />
+<img width="1156" height="448" alt="image" src="https://github.com/user-attachments/assets/666f2b5f-e8cd-47ae-be9a-b8d438f4ab2c" />
+
 it is non-malicious
-<img width="931" height="527" alt="image" src="https://github.com/user-attachments/assets/17aa49b8-9a3f-4954-84f6-db83da6fee55" />
-<img width="990" height="511" alt="image" src="https://github.com/user-attachments/assets/60ba6374-66ff-4db2-8244-424449f72d15" />
-<img width="1001" height="581" alt="image" src="https://github.com/user-attachments/assets/015a5da8-ab41-471b-93c7-d64adcad2b6b" />
-<img width="733" height="538" alt="image" src="https://github.com/user-attachments/assets/09fb4ac4-20c4-44c4-9f0b-74830ad6fc20" />
+<img width="1147" height="620" alt="image" src="https://github.com/user-attachments/assets/679b856c-1d5c-4c7a-b73a-8c2ba0af0d11" />
+<img width="1223" height="599" alt="image" src="https://github.com/user-attachments/assets/4e3031dc-b535-422e-aaf2-8a9d8c97a82c" />
+<img width="1235" height="684" alt="image" src="https://github.com/user-attachments/assets/eecd8c5c-ada9-4701-a689-52aaad394bfb" />
+<img width="914" height="669" alt="image" src="https://github.com/user-attachments/assets/568dfb79-1f3a-41d5-9814-6649d759bd0a" />
 <img width="2158" height="622" alt="image" src="https://github.com/user-attachments/assets/d0a37e5d-8112-4eaf-a846-4f7bc57aacc3" />
 
 
