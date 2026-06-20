@@ -1,4 +1,4 @@
-# 🛡️ SOC Alerts & Incident Response Portfolio
+# 🛡️ SOC Alerts
 
 This repository serves as a professional portfolio documenting my technical methodology, analytical skills, and hands-on experience as a Security Operations Center (SOC) Analyst. It contains detailed writeups of security alert investigations, demonstrating my approach to threat triage, root cause analysis, and incident response.
 
