@@ -1,18 +1,20 @@
 # 🛡️ SOC Alerts
-
-This repository serves as a professional portfolio documenting my technical methodology, analytical skills, and hands-on experience as a Security Operations Center (SOC) Analyst. It contains detailed writeups of security alert investigations, demonstrating my approach to threat triage, root cause analysis, and incident response.
-
-The core objective of this repository is to showcase my ability to distinguish between True Positives (TP) and False Positives (FP), minimize alert fatigue, and execute precise remediation actions according to standard SOC workflows.
+This repository showcases my practical experience and analytical methodology as a SOC Analyst. Modern defensive security requires continuous monitoring, deep log correlation, and rapid incident handling. This portfolio documents my structured process for triaging security alerts, analyzing host and network telemetry, and executing standard incident response workflows to protect enterprise environments from cyber threats.
 
 ---
 
-## 🛠️ Investigation Techniques & Technical Skills
-Across these investigations, I apply an industry-standard analyst workflow that begins with rigorous alert triage and validation across malware, endpoint, and network telemetry to accurately evaluate threat severity and impact. To differentiate between true and false positives, I cross-check file hashes, domains, and URLs using OSINT and threat intelligence platforms like VirusTotal and Filescan.io, while deeply analyzing endpoint telemetry, system logs, process execution trees, and user browsing history. Furthermore, I leverage dynamic analysis tools such as ANY.RUN to sandbox suspicious attachments, extract Indicators of Compromise (IoCs), and correlate network and proxy logs to verify potential Command and Control (C2) communications. Ultimately, this comprehensive approach ensures the effective validation of automated remediation, precise host containment, and thorough threat eradication.
+## 🎯 Objectives
+The primary goal of this repository is to showcase a structured and effective approach to Security Operations and Incident Response. The core objectives include:
+* **Alert Validation & Triage:** Analyze endpoint and network logs to quickly separate True Positives (TP) from False Positives (FP) and reduce alert fatigue.
+* **Identity Monitoring:** Investigate authentication logs and monitor Active Directory components (such as domain objects and security groups) to detect unauthorized access or lateral movement.
+* **Web Application Defense:** Analyze proxy logs and web traffic to identify malicious activities, including automated scanning or database injection attacks.
+* **Threat Intelligence & Automation:** Correlate internal alerts with external Threat Intelligence (OSINT, IoCs) and use Python to automate log parsing and data enrichment.
+* **Malware & Artifact Analysis:** Use sandbox environments and endpoint logs to analyze malicious files, extract indicators, and detect Command & Control (C2) connections.
+* **Incident Containment:** Execute precise response actions like host isolation or IP blocking, and provide recommendations to improve detection rules.
 
 ---
 
 ## 📂 Investigated Cases (Writeups)
-
 The table below outlines the investigated security incidents. Click on the link in the **Writeup Link** column to view the complete step-by-step technical analysis for each case.
 
 | Case / Alert Type | Verdict | Writeup Link |
