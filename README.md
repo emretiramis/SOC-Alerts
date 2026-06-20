@@ -10,8 +10,8 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | Case / Alert Type | Verdict | Writeup Link |
 | :--- | :--- | :--- |
-| SOC104-Malware Detected | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
-| SOC109-Emotet Malware Investigation | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
-| SOC119 - Proxy - Malicious Executable File Detected | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
+| *SOC104-Malware Detected* | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
+| *SOC109-Emotet Malware Investigation* | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
+| *SOC119 - Proxy - Malicious Executable File Detected* | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
 
 *Note: As seen in my repository structure, all detailed incident reports are stored natively within the `writeups/` directory.*
