@@ -1,9 +1,11 @@
 # 🛡️ SOC Alerts
+
 This repository showcases my practical experience and analytical methodology as a SOC Analyst. Modern defensive security requires continuous monitoring, deep log correlation, and rapid incident handling. This portfolio documents my structured process for triaging security alerts, analyzing host and network telemetry, and executing standard incident response workflows to protect enterprise environments from cyber threats.
 
 ---
 
 ## 🎯 Objectives
+
 The primary goal of this repository is to showcase a structured and effective approach to Security Operations and Incident Response. The core objectives include:
 * **Alert Validation & Triage:** Analyze endpoint and network logs to quickly separate True Positives (TP) from False Positives (FP) and reduce alert fatigue.
 * **Identity Monitoring:** Investigate authentication logs and monitor Active Directory components (such as domain objects and security groups) to detect unauthorized access or lateral movement.
@@ -15,6 +17,7 @@ The primary goal of this repository is to showcase a structured and effective ap
 ---
 
 ## 📂 Investigated Cases (Writeups)
+
 The table below outlines the investigated security incidents. Click on the link in the **Writeup Link** column to view the complete step-by-step technical analysis for each case.
 
 | Case / Alert Type | Verdict | Writeup Link |
