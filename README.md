@@ -16,7 +16,7 @@ Across these investigations, I apply an industry-standard analyst workflow that 
 The table below outlines the investigated security incidents. Click on the link in the **Writeup Link** column to view the complete step-by-step technical analysis for each case.
 
 | Case / Alert Type | Verdict | Writeup Link |
-| :--- | :--- | :--- | :--- |
+| :--- :--- | :--- |
 | SOC104-Malware Detected | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
 | SOC109-Emotet Malware Investigation | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
 | SOC119 - Proxy - Malicious Executable File Detected | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
