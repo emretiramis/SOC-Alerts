@@ -25,17 +25,24 @@
 <img width="1388" height="939" alt="image" src="https://github.com/user-attachments/assets/294674e5-edf1-44a6-b000-f1e2cb4e37f0" />
 10. It contains attachment
 <img width="1346" height="934" alt="image" src="https://github.com/user-attachments/assets/ec52d7c5-f272-49fd-bd43-e12154266c74" />
+11. VirusTotal scan results confirmed the file to be malicious.
 <img width="1373" height="936" alt="image" src="https://github.com/user-attachments/assets/4621add1-57f8-49e5-bd6e-00d35c42defa" />
+12. It is delivered because action was allowed.
 <img width="1392" height="963" alt="image" src="https://github.com/user-attachments/assets/327e492f-4299-47a5-bd9b-c0491fa29687" />
 <img width="1387" height="979" alt="image" src="https://github.com/user-attachments/assets/f0609067-cdcd-48b5-8439-2d703fa1387e" />
+13. Lets analysis if the malicious file connects a C2 server.
 <img width="1400" height="975" alt="image" src="https://github.com/user-attachments/assets/b60125cf-e181-4cd8-ac3c-10078e85aaae" />
-<img width="1397" height="971" alt="image" src="https://github.com/user-attachments/assets/ec03c13a-d956-4268-9288-808287cba3c5" />
+14. I use any.run here. I uploaded the file.
 <img width="1409" height="971" alt="image" src="https://github.com/user-attachments/assets/5b86db7c-12ba-491c-8ce4-e66edf8609e7" />
+15. After starting the machine. We see the process and connections. File is connecting the C2 server.
 <img width="1421" height="963" alt="image" src="https://github.com/user-attachments/assets/303f6249-0532-48f8-ba57-158911189867" />
+16. I want to check the logs to see if there was any traffic to that IP address.
 <img width="1393" height="964" alt="image" src="https://github.com/user-attachments/assets/a5a5ea07-90a6-4170-990e-c99e40823c6b" />
+17. There are 2 logs here. We will implement containment on the device generating this traffic.
 <img width="1383" height="960" alt="image" src="https://github.com/user-attachments/assets/e41fff19-8f9a-45d3-bf40-eee1833524e7" />
 <img width="1399" height="949" alt="image" src="https://github.com/user-attachments/assets/0bc7755e-cb3c-4417-9372-7a13432778e8" />
 <img width="1425" height="994" alt="image" src="https://github.com/user-attachments/assets/6c86367a-dda8-4ad1-ac89-d2ba421b0316" />
+18. We can provide the MD5 hash and the C2 server as artifacts.
 <img width="1368" height="951" alt="image" src="https://github.com/user-attachments/assets/d1020c53-ab05-45bd-aefa-6dbe1ece601e" />
 <img width="1380" height="975" alt="image" src="https://github.com/user-attachments/assets/2cb4348b-9565-42c4-b4b2-d9b9c8199938" />
 <img width="1369" height="966" alt="image" src="https://github.com/user-attachments/assets/bc5d6013-272e-40a5-afba-3e253c1eaeeb" />
