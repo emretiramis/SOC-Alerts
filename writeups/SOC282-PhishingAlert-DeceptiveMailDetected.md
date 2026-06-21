@@ -7,7 +7,9 @@ Lets control the mails
 <img width="1385" height="967" alt="image" src="https://github.com/user-attachments/assets/ba46c4ce-bb12-414f-9ef8-9fdf64c9b11d" />
 There is a attachment here. 
 <img width="1385" height="971" alt="image" src="https://github.com/user-attachments/assets/27b0871c-d2ea-44fc-973d-54b2df2db263" />
+Lets download it.
 <img width="1392" height="987" alt="image" src="https://github.com/user-attachments/assets/dd055a65-1f76-4add-bc2a-b1706e7925c0" />
+I get md5 hash to analysis it on virustotal.
 <img width="1392" height="997" alt="image" src="https://github.com/user-attachments/assets/147cadf0-65ce-49e8-aa75-3188559d0691" />
 <img width="1429" height="988" alt="image" src="https://github.com/user-attachments/assets/409e9a35-00f3-4e20-89e8-61a56e43ad55" />
 <img width="1395" height="983" alt="image" src="https://github.com/user-attachments/assets/bdcc5442-19fa-4d0a-8605-58a305cd774b" />
