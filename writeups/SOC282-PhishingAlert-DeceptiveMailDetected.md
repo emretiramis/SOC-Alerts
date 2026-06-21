@@ -1,4 +1,4 @@
-# SOC282-PhishingAlert-DeceptiveMailDetected
+# SOC282-Phishing Alert-Deceptive Mail Detected
 
 1. First Alert
 <img width="1368" height="944" alt="image" src="https://github.com/user-attachments/assets/ea25b258-a258-4897-9ec1-26f933038b26" />
