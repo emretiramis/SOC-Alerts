@@ -2,6 +2,7 @@
 
 First Alert
 <img width="1368" height="944" alt="image" src="https://github.com/user-attachments/assets/ea25b258-a258-4897-9ec1-26f933038b26" />
+Lets control the mails
 <img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/a8e7a739-167e-43d7-991f-a00904fef33d" />
 <img width="1385" height="967" alt="image" src="https://github.com/user-attachments/assets/ba46c4ce-bb12-414f-9ef8-9fdf64c9b11d" />
 <img width="1385" height="971" alt="image" src="https://github.com/user-attachments/assets/27b0871c-d2ea-44fc-973d-54b2df2db263" />
