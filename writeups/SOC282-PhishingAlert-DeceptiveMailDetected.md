@@ -13,6 +13,7 @@ I get md5 hash to analysis it on virustotal.
 <img width="1392" height="997" alt="image" src="https://github.com/user-attachments/assets/147cadf0-65ce-49e8-aa75-3188559d0691" />
 A file that is malicious, as we thought.
 <img width="1429" height="988" alt="image" src="https://github.com/user-attachments/assets/409e9a35-00f3-4e20-89e8-61a56e43ad55" />
+The action appears to be allowed.
 <img width="1395" height="983" alt="image" src="https://github.com/user-attachments/assets/bdcc5442-19fa-4d0a-8605-58a305cd774b" />
 <img width="1388" height="939" alt="image" src="https://github.com/user-attachments/assets/294674e5-edf1-44a6-b000-f1e2cb4e37f0" />
 <img width="1346" height="934" alt="image" src="https://github.com/user-attachments/assets/ec52d7c5-f272-49fd-bd43-e12154266c74" />
