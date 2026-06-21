@@ -23,6 +23,7 @@
 <br>
 9. Lets start the case.
 <img width="1388" height="939" alt="image" src="https://github.com/user-attachments/assets/294674e5-edf1-44a6-b000-f1e2cb4e37f0" />
+10. It contains attachment
 <img width="1346" height="934" alt="image" src="https://github.com/user-attachments/assets/ec52d7c5-f272-49fd-bd43-e12154266c74" />
 <img width="1373" height="936" alt="image" src="https://github.com/user-attachments/assets/4621add1-57f8-49e5-bd6e-00d35c42defa" />
 <img width="1392" height="963" alt="image" src="https://github.com/user-attachments/assets/327e492f-4299-47a5-bd9b-c0491fa29687" />
