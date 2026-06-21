@@ -1,20 +1,27 @@
 # SOC282-PhishingAlert-DeceptiveMailDetected
 
-First Alert
+1. First Alert
 <img width="1368" height="944" alt="image" src="https://github.com/user-attachments/assets/ea25b258-a258-4897-9ec1-26f933038b26" />
-Lets control the mails
+2. Lets control the mails
 <img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/a8e7a739-167e-43d7-991f-a00904fef33d" />
 <img width="1385" height="967" alt="image" src="https://github.com/user-attachments/assets/ba46c4ce-bb12-414f-9ef8-9fdf64c9b11d" />
-There is a attachment here. 
+<br>
+4. There is a attachment here. 
 <img width="1385" height="971" alt="image" src="https://github.com/user-attachments/assets/27b0871c-d2ea-44fc-973d-54b2df2db263" />
-Lets download it.
+<br>
+5. Lets download it.
 <img width="1392" height="987" alt="image" src="https://github.com/user-attachments/assets/dd055a65-1f76-4add-bc2a-b1706e7925c0" />
-I get md5 hash to analysis it on virustotal.
+<br>
+6. I get md5 hash to analysis it on virustotal.
 <img width="1392" height="997" alt="image" src="https://github.com/user-attachments/assets/147cadf0-65ce-49e8-aa75-3188559d0691" />
-A file that is malicious, as we thought.
+<br>
+7. A file that is malicious, as we thought.
 <img width="1429" height="988" alt="image" src="https://github.com/user-attachments/assets/409e9a35-00f3-4e20-89e8-61a56e43ad55" />
-The action appears to be allowed.
+<br>
+8. The action appears to be allowed.
 <img width="1395" height="983" alt="image" src="https://github.com/user-attachments/assets/bdcc5442-19fa-4d0a-8605-58a305cd774b" />
+<br>
+9. Lets start the case.
 <img width="1388" height="939" alt="image" src="https://github.com/user-attachments/assets/294674e5-edf1-44a6-b000-f1e2cb4e37f0" />
 <img width="1346" height="934" alt="image" src="https://github.com/user-attachments/assets/ec52d7c5-f272-49fd-bd43-e12154266c74" />
 <img width="1373" height="936" alt="image" src="https://github.com/user-attachments/assets/4621add1-57f8-49e5-bd6e-00d35c42defa" />
