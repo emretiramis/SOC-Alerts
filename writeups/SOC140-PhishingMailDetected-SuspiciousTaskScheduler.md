@@ -44,6 +44,7 @@ not delivered because blocked
 <img width="1366" height="951" alt="image" src="https://github.com/user-attachments/assets/def27248-2659-4bc7-a2e2-2ad5149c75c4" />
 <img width="1433" height="972" alt="image" src="https://github.com/user-attachments/assets/1866fd25-3dae-4992-94d2-7edf5fbba872" />
 <img width="1384" height="963" alt="image" src="https://github.com/user-attachments/assets/824ad021-9f6e-4f43-a0ab-e05f84db5e8e" />
+The investigation confirmed that the alarm was indeed part of a genuine phishing campaign. The PDF attachment was classified as malicious, and sandbox analysis revealed an attempt to establish Command and Control communication. However, log analysis did not detect any connection from within the corporate network to the relevant C2 infrastructure. Therefore, the event was assessed as True Positive, but it was concluded that the threat was successfully blocked and no signs of execution or infection were found.
 <img width="1359" height="935" alt="image" src="https://github.com/user-attachments/assets/9f18f50d-9791-49dc-aa56-504e5e30cab9" />
 <img width="1355" height="934" alt="image" src="https://github.com/user-attachments/assets/c7987d2c-12db-499d-a41b-cc6c22e376d1" />
 
