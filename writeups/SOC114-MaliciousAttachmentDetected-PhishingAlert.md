@@ -1,4 +1,4 @@
-# 	SOC114 - Malicious Attachment Detected - Phishing Alert
+# SOC114 - Malicious Attachment Detected - Phishing Alert
 
 This alert was generated as a result of detecting a phishing email containing a malicious attachment. Investigation revealed the email contained a PowerPoint (.ppt/.pptx) file.
 
