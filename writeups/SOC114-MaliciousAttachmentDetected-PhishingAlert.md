@@ -61,10 +61,12 @@ we contained the endpoint.
 <img width="1356" height="948" alt="image" src="https://github.com/user-attachments/assets/8069634d-80df-490f-8688-3b5ea7e17f02" />
 
 <img width="1376" height="971" alt="image" src="https://github.com/user-attachments/assets/2bc10dfb-4f14-472a-94a2-9005853d4de7" />
+
+The investigation confirmed that the PowerPoint file included in the phishing email contained a Trojan. Since the file was password-protected, behavioral analysis could not be performed in a sandbox environment. However, matching IOCs obtained from threat intelligence sources with log data revealed outbound connections to the malicious infrastructure. The endpoint of these connections was identified as 172.16.17.45, the event was evaluated as True Positive, and containment and escalation processes were applied.
 <img width="1425" height="965" alt="image" src="https://github.com/user-attachments/assets/0736b687-bbc2-4c86-bb1f-e2089ee69cff" />
 <img width="1384" height="959" alt="image" src="https://github.com/user-attachments/assets/4853336f-521b-42ce-b4fb-2efbc23f9105" />
 
-The investigation confirmed that the PowerPoint file included in the phishing email contained a Trojan. Since the file was password-protected, behavioral analysis could not be performed in a sandbox environment. However, matching IOCs obtained from threat intelligence sources with log data revealed outbound connections to the malicious infrastructure. The endpoint of these connections was identified as 172.16.17.45, the event was evaluated as True Positive, and containment and escalation processes were applied.
+
 
 
 
