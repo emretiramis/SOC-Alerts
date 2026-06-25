@@ -10,9 +10,9 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 008 | *SOC165 - Possible SQL Injection Payload Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC165-PossibleSQLInjectionPayloadDetected.md) |
+| 008 | *SOC140 - Phishing Mail Detected - Suspicious Task Scheduler* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC140-PhishingMailDetected-SuspiciousTaskScheduler.md) |
 | 007 | *SOC120 - Phishing Mail Detected - Internal to Internal* | Exchange | 🟢 False Positive | [📄 View Writeup](./writeups/SOC120-PhishingMailDetected-InternaltoInternal.md) |
-| 006 | *SOC140 - Phishing Mail Detected - Suspicious Task Scheduler* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC140-PhishingMailDetected-SuspiciousTaskScheduler.md) |
+| 006 | *SOC165 - Possible SQL Injection Payload Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC165-PossibleSQLInjectionPayloadDetected.md) |
 | 005 | *SOC141 - Phishing Url Detected* | Proxy | 🔴 True Positive | [📄 View Writeup](./writeups/SOC141-PhishingUrlDetected.md) |
 | 004 | *SOC282 - Phishing Alert-Deceptive Mail Detected* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC282-PhishingAlert-DeceptiveMailDetected.md) |
 | 003 | *SOC119 - Proxy - Malicious Executable File Detected* | Proxy | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
