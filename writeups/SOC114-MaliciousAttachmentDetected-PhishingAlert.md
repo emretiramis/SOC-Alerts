@@ -37,7 +37,28 @@ While checking these IP adresses, I found a log.
 
 <img width="1369" height="907" alt="image" src="https://github.com/user-attachments/assets/76efb2ea-ab7e-4e4b-ac19-94f16f8cc98d" />
 
+There are suspicious processes on the endpoint.
+<img width="1387" height="953" alt="image" src="https://github.com/user-attachments/assets/370090c3-24ca-4963-9460-9fab7ef30c7b" />
 
+Also there is network traffic. This endpoint connected to C2 server.
+<img width="1381" height="932" alt="image" src="https://github.com/user-attachments/assets/8c899a2f-2346-49f0-a7af-a8cb8f9210ea" />
+
+
+<img width="1431" height="999" alt="image" src="https://github.com/user-attachments/assets/4d0907d4-274f-4d07-8db1-0eff05364c14" />
+There was an attachment.
+<img width="1413" height="968" alt="image" src="https://github.com/user-attachments/assets/8fde01c0-dc5d-4889-b021-c7ceabb5fea3" />
+it was malicious.
+<img width="1401" height="956" alt="image" src="https://github.com/user-attachments/assets/9b025890-c4bc-47ac-9f24-98ac24eea4cd" />
+mail is delivered.
+<img width="1460" height="967" alt="image" src="https://github.com/user-attachments/assets/ff338001-30a7-4c50-9edc-4d3297b3f737" />
+lets delete the email.
+<img width="1370" height="960" alt="image" src="https://github.com/user-attachments/assets/a0e14418-5e0a-4332-8e90-29fcd1aa83ac" />
+<img width="1401" height="965" alt="image" src="https://github.com/user-attachments/assets/914047aa-c9b8-4ff1-b54b-342894d4d393" />
+the endpoint 172.16.17.45 opened it.
+<img width="1434" height="973" alt="image" src="https://github.com/user-attachments/assets/7c05b8fb-3fdf-45ca-b742-14c3f88bc709" />
+we contained the endpoint.
+<img width="1429" height="947" alt="image" src="https://github.com/user-attachments/assets/00e0841b-95a0-4368-8c6b-d64bc51b84d6" />
+<img width="1356" height="948" alt="image" src="https://github.com/user-attachments/assets/8069634d-80df-490f-8688-3b5ea7e17f02" />
 
 
 
