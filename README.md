@@ -10,12 +10,19 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 001 | *SOC104 - Malware Detected* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
-| 002 | *SOC109 - Emotet Malware Investigation* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
-| 003 | *SOC119 - Proxy - Malicious Executable File Detected* | Proxy | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
-| 004 | *SOC282 - Phishing Alert-Deceptive Mail Detected* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC282-PhishingAlert-DeceptiveMailDetected.md) |
-| 005 | *SOC141 - Phishing Url Detected* | Proxy | 🔴 True Positive | [📄 View Writeup](./writeups/SOC141-PhishingUrlDetected.md) |
-| 006 | *SOC140 - Phishing Mail Detected - Suspicious Task Scheduler* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC140-PhishingMailDetected-SuspiciousTaskScheduler.md) |
+| 008 | *SOC165 - Possible SQL Injection Payload Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC165-PossibleSQLInjectionPayloadDetected.md) |
 | 007 | *SOC120 - Phishing Mail Detected - Internal to Internal* | Exchange | 🟢 False Positive | [📄 View Writeup](./writeups/SOC120-PhishingMailDetected-InternaltoInternal.md) |
+| 006 | *SOC140 - Phishing Mail Detected - Suspicious Task Scheduler* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC140-PhishingMailDetected-SuspiciousTaskScheduler.md) |
+| 005 | *SOC141 - Phishing Url Detected* | Proxy | 🔴 True Positive | [📄 View Writeup](./writeups/SOC141-PhishingUrlDetected.md) |
+| 004 | *SOC282 - Phishing Alert-Deceptive Mail Detected* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC282-PhishingAlert-DeceptiveMailDetected.md) |
+| 003 | *SOC119 - Proxy - Malicious Executable File Detected* | Proxy | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
+| 002 | *SOC109 - Emotet Malware Investigation* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
+| 001 | *SOC104 - Malware Detected* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
+
+
+
+
+
+
 
 *Note: As seen in my repository structure, all detailed incident reports are stored natively within the `writeups/` directory. This repository is updated regularly as I complete new alerts and expand my defensive security skillset.*
