@@ -38,3 +38,4 @@ Attack isnt successful because logs says it was 302 redirect <br>
 no need to escalate to tier 2 <br>
 <img width="913" height="673" alt="image" src="https://github.com/user-attachments/assets/540548ac-695f-413e-b4b4-e637e4285df9" /><br>
 <img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/4c3b55b3-14ac-42ac-beee-fc088327ad49" />
+<img width="2148" height="637" alt="image" src="https://github.com/user-attachments/assets/2bc86a7e-cb61-46e6-be3c-5d11e744f2b4" />
