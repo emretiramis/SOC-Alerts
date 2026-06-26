@@ -10,7 +10,7 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 009 | *SOC166 - Javascript Code Detectedin Requested URL* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC166-JavascriptCodeDetectedinRequestedURL.md) |
+| 010 | *SOC166 - Javascript Code Detectedin Requested URL* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC166-JavascriptCodeDetectedinRequestedURL.md) |
 | 009 | *SOC114 - Malicious Attachment Detected - Phishing Alert* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC114-MaliciousAttachmentDetected-PhishingAlert.md) |
 | 008 | *SOC140 - Phishing Mail Detected - Suspicious Task Scheduler* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC140-PhishingMailDetected-SuspiciousTaskScheduler.md) |
 | 007 | *SOC120 - Phishing Mail Detected - Internal to Internal* | Exchange | 🟢 False Positive | [📄 View Writeup](./writeups/SOC120-PhishingMailDetected-InternaltoInternal.md) |
