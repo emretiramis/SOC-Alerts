@@ -22,15 +22,15 @@ I check the logs and see some similar other events.
 
 <img width="987" height="636" alt="image" src="https://github.com/user-attachments/assets/fe339106-9589-485e-b5f3-0f3e088e4fce" />
 <img width="917" height="553" alt="image" src="https://github.com/user-attachments/assets/81e2d3dd-2109-4fad-83c8-b7ac294df14b" />
-<img width="907" height="657" alt="image" src="https://github.com/user-attachments/assets/5969be3e-be34-404d-b54f-6fb684970351" />
+<img width="907" height="657" alt="image" src="https://github.com/user-attachments/assets/5969be3e-be34-404d-b54f-6fb684970351" /><br>
 this traffic is malicious <br>
-<img width="918" height="461" alt="image" src="https://github.com/user-attachments/assets/5701cb7e-6c86-4e53-8c75-da5916615edc" />
+<img width="918" height="461" alt="image" src="https://github.com/user-attachments/assets/5701cb7e-6c86-4e53-8c75-da5916615edc" /><br>
 the payload shows that is XSS <br>
-<img width="904" height="381" alt="image" src="https://github.com/user-attachments/assets/b2f8f5b4-94b9-40f7-80fe-924f96d4d351" />
+<img width="904" height="381" alt="image" src="https://github.com/user-attachments/assets/b2f8f5b4-94b9-40f7-80fe-924f96d4d351" /><br>
 not planned <br>
-<img width="896" height="532" alt="image" src="https://github.com/user-attachments/assets/240e09c8-efcb-4187-9a3d-e2da780ae9a6" />
+<img width="896" height="532" alt="image" src="https://github.com/user-attachments/assets/240e09c8-efcb-4187-9a3d-e2da780ae9a6" /><br>
 The attack coming from internet to internal network <br>
-<img width="903" height="391" alt="image" src="https://github.com/user-attachments/assets/68af5023-d409-4ba3-9339-dba50f217385" />
+<img width="903" height="391" alt="image" src="https://github.com/user-attachments/assets/68af5023-d409-4ba3-9339-dba50f217385" /><br>
 Attack isnt successful because logs says it was 302 redirect <br>
 <img width="919" height="699" alt="image" src="https://github.com/user-attachments/assets/d1204f5a-444c-49a8-a986-b118be23df44" />
 <img width="888" height="336" alt="image" src="https://github.com/user-attachments/assets/97809568-0bbd-4c08-8b04-73e6b7743209" />
