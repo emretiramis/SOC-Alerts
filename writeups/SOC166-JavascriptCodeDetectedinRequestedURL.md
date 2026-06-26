@@ -34,7 +34,7 @@ The attack coming from internet to internal network <br>
 Attack isnt successful because logs says it was 302 redirect <br>
 <img width="919" height="699" alt="image" src="https://github.com/user-attachments/assets/d1204f5a-444c-49a8-a986-b118be23df44" />
 <img width="888" height="336" alt="image" src="https://github.com/user-attachments/assets/97809568-0bbd-4c08-8b04-73e6b7743209" />
-<img width="925" height="527" alt="image" src="https://github.com/user-attachments/assets/86af7ad8-7e96-4d6f-b9ff-76c311e5b145" />
+<img width="925" height="527" alt="image" src="https://github.com/user-attachments/assets/86af7ad8-7e96-4d6f-b9ff-76c311e5b145" /><br>
 no need to escalate to tier 2 <br>
-<img width="913" height="673" alt="image" src="https://github.com/user-attachments/assets/540548ac-695f-413e-b4b4-e637e4285df9" />
+<img width="913" height="673" alt="image" src="https://github.com/user-attachments/assets/540548ac-695f-413e-b4b4-e637e4285df9" /><br>
 <img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/4c3b55b3-14ac-42ac-beee-fc088327ad49" />
