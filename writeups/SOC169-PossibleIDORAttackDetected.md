@@ -1,12 +1,17 @@
 # SOC169 - Possible IDOR Attack Detected
+First, I activated the SOC169 – Possible IDOR Attack Detected alarm on the SIEM. By examining the alarm details, I checked the source IP address, the destination IP address, the HTTP method used, the endpoint to which the request was made, and how the security device reacted to the request.
 
+---
+Next, I examined which detection rule generated the alarm. The fact that the alarm was named "Possible IDOR Attack" indicated that a user might have attempted to access unauthorized data by trying different user IDs. Therefore, I focused my research specifically on IDOR indicators.
 
 <img width="2560" height="624" alt="image" src="https://github.com/user-attachments/assets/ca936fd3-1c33-4c07-a10b-b032b9453da5" />
 
-there are some logs about suspected source IP
+Since the alarm summary information was insufficient, I switched to the Log Management screen and applied filtering based on source and target IPs. This allowed me to view all HTTP requests made by the attacker and confirmed that the incident was not limited to a single request.
+
 <img width="2555" height="895" alt="image" src="https://github.com/user-attachments/assets/df6b88ea-7c2f-468f-bb15-c4555c3723e6" />
 
-When I investigate the logs, Attacker is trying to access other "user_id"s
+I examined the logs I collected, analyzing each POST request sent to the same endpoint. I noticed that the user_id values ​​in the POST parameters were constantly being changed. For example, one request sent user_id=2, the next sent user_id=3, and then user_id=4. Since trying consecutive user IDs on the same endpoint is a common behavior in IDOR attacks, I considered this a significant finding.
+I then examined not only the requests but also the server's responses to those requests. I noticed that the response size values ​​were different for each request. If the application had denied access or returned the same error message for all requests, the response sizes would have been largely the same. However, the different response sizes suggested that the application was returning different user data, leading me to conclude that the attack may have been successful.
 <img width="942" height="447" alt="image" src="https://github.com/user-attachments/assets/f7d4bebe-2469-4b47-8d8c-e306e873bad5" />
 <img width="960" height="440" alt="image" src="https://github.com/user-attachments/assets/006a555e-fd0d-4d44-b7f9-177afb087948" />
 <img width="1080" height="450" alt="image" src="https://github.com/user-attachments/assets/1bdf521f-2f41-4f5c-a30f-8999789f67d0" />
@@ -17,6 +22,7 @@ Suspected IP is malicious, there are reports.
 <img width="915" height="679" alt="image" src="https://github.com/user-attachments/assets/34191073-addf-41a2-a841-62fd26aacb87" />
 <img width="1746" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a991d52-7489-4f41-983f-33db18e22614" />
 
+After evaluating all the findings I obtained at the end of the research, I concluded that the repeated requests sent to the same endpoint, the systematic change of user IDs, the server returning different content, and the unblocked requests, when considered together, indicated that this was not merely suspicious behavior but a genuine IDOR attack.
 <img width="894" height="559" alt="image" src="https://github.com/user-attachments/assets/ec961888-1288-4ad1-9f75-e2a06a5a8d11" />
 <img width="896" height="563" alt="image" src="https://github.com/user-attachments/assets/60e0a7e4-3c6d-44d3-a770-45671772a7d5" />
 <img width="888" height="614" alt="image" src="https://github.com/user-attachments/assets/66d85517-2a34-4f91-8bc4-03066fdcb458" />
