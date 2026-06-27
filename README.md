@@ -10,8 +10,9 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 013 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
-| 012 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
+| 014 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
+| 013 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
+| 012 | *SOC167 - LS Command Detected in Requested URL* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC167-LSCommandDetectedinRequestedURL.md) |
 | 011 | *SOC170 - Passwd Found in Requested URL - Possible LFI Attack* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC170-PasswdFoundinRequestedURL-PossibleLFIAttack.md) |
 | 010 | *SOC166 - Javascript Code Detectedin Requested URL* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC166-JavascriptCodeDetectedinRequestedURL.md) |
 | 009 | *SOC114 - Malicious Attachment Detected - Phishing Alert* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC114-MaliciousAttachmentDetected-PhishingAlert.md) |
