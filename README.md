@@ -10,7 +10,8 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 014 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
+| 015 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
+| 014 | *SOC138 - Detected Suspicious Xls File* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC138-DetectedSuspiciousXlsFile.md) |
 | 013 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
 | 012 | *SOC167 - LS Command Detected in Requested URL* | Web Attacks | 🟢 False Positive | [📄 View Writeup](./writeups/SOC167-LSCommandDetectedinRequestedURL.md) |
 | 011 | *SOC170 - Passwd Found in Requested URL - Possible LFI Attack* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC170-PasswdFoundinRequestedURL-PossibleLFIAttack.md) |
