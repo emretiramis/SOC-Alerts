@@ -1,4 +1,7 @@
 # SOC168 - Whoami Command Detected in Request Body
+When I received the alarm, the first thing I checked was which rule it was flagged under. The rule indicated that the whoami command had been detected within the HTTP request body. Since these types of commands are commonly used in command injection attempts, I decided to examine the request details first.
+
+When I opened the request body, I saw that the whoami command was embedded within the parameters. Suspecting this wasn't normal application behavior, I checked the source IP and the target server.
 
 ---
 
