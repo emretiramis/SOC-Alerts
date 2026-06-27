@@ -31,7 +31,7 @@ After evaluating the URL content, source-destination relationship, and recurring
 
 <img width="799" height="420" alt="image" src="https://github.com/user-attachments/assets/87abca72-de0f-459b-92be-39d94c08e9a7" />
 
-no
+yes but not malicious.
 
 <img width="855" height="474" alt="image" src="https://github.com/user-attachments/assets/ecf79135-6993-484a-af82-7433e5bbc797" />
 <img width="837" height="373" alt="image" src="https://github.com/user-attachments/assets/561be004-43cd-445d-b9ab-5fe2f7316b9b" />
