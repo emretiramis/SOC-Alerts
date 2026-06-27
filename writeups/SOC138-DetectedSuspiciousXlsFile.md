@@ -1,5 +1,7 @@
 # SOC138 - Detected Suspicious Xls File
 
+The alarm told me that a suspicious .xls file had been opened/downloaded by a user. My first step is always the same: get the file hash and do a reputation check. The reason is simple — the hash tells me if the file has been seen elsewhere, if it belongs to a known malware family; this determines my next steps (whether to proceed to containment or check for false positives). I entered the hash into VirusTotal and the result came back malicious — multiple AV engines had detected this file. At this point, I dropped the "suspicious" label and started treating the case as a potential real threat.
+
 ---
 
 <img width="2196" height="443" alt="image" src="https://github.com/user-attachments/assets/8b9d711a-6f10-4d12-a580-2ff0e33d81f6" />
@@ -7,15 +9,15 @@
 When I investigate the file hash, it seems malicious.
 <img width="2558" height="1255" alt="image" src="https://github.com/user-attachments/assets/85241242-d29d-4c41-bee7-c36cbd7d9f37" />
 
-Alert is created at 	Mar, 13, 2021, 08:20 PM, I will look logs on this date for source IP. There are 3 events and 2 of them in this date.
+Alert is created at 	Mar, 13, 2021, 08:20 PM, I will look logs on this date for source IP. There are 3 events and 2 of them in this date. 
 <img width="2560" height="856" alt="image" src="https://github.com/user-attachments/assets/41c196b3-3040-41cb-94f1-c58e0acb1f2e" />
 
-Destination IP = 177.53.143.89
+Destination IP = 177.53.143.89. I isolated the target IP from the logs: 177.53.143.89. My goal in doing this was to clarify whether this IP was a legitimate service or a known malicious infrastructure — because understanding the behavior of the XLS file requires knowing "where it was trying to go" even more critical than knowing "what it did".
 
 <img width="1833" height="445" alt="image" src="https://github.com/user-attachments/assets/805658fc-e3c4-4bc4-86b2-9143d8fb66e4" />
 <img width="1854" height="451" alt="image" src="https://github.com/user-attachments/assets/e4504f83-a56e-426b-a9ed-d3d246912342" />
 
-When I back to virustotal, I looked the related IP addresses with this hash file. These IP addresses using as C2 address. The IP address we found in the logs is also here.
+I went to the "relations" tab of the hash I found earlier on VirusTotal and looked at the IP addresses associated with that hash. My reason for doing this was to see the file's entire known network behavior instead of just checking one IP, and to verify if the IP in my logs was within that set. The result was positive — 177.53.143.89 was one of the known C2 (Command & Control) addresses of this malware family. This allowed me to definitively classify the event as "malware landed on the host and attempted to connect to C2."
 
 <img width="1119" height="470" alt="image" src="https://github.com/user-attachments/assets/11ac08bf-0e8e-4c14-8c6c-c7ab7574543a" />
 
