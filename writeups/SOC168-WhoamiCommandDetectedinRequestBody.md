@@ -7,7 +7,7 @@ When I opened the request body, I saw that the whoami command was embedded withi
 
 <img width="2215" height="462" alt="image" src="https://github.com/user-attachments/assets/65ab51fb-d99f-4bd0-bc50-9ab2fd78fbba" />
 
-Now I want to investigate logs about suspected source IP. there are 5 events.
+I then investigated whether similar requests had come from the same IP address before. Shortly afterward, I saw that similar payloads were being sent to the same endpoint.
 <img width="2556" height="890" alt="image" src="https://github.com/user-attachments/assets/58dc5f62-9640-40bb-8c92-417a23718e4f" />
 
 POST Parameters seems malicious. The attacker runs commands here.
