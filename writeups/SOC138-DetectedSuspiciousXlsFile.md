@@ -28,11 +28,11 @@ not quarantined
 
 <img width="844" height="409" alt="image" src="https://github.com/user-attachments/assets/db5d610c-8cfc-442b-b06c-55bd9f33ae99" />
 
-Malicious
+virustotal results shows it is Malicious
 
 <img width="840" height="432" alt="image" src="https://github.com/user-attachments/assets/2c071470-f6b7-4291-9f94-8ccc12f87fee" />
 
-accessed the C2 address
+logs shows accessed the C2 address
 
 <img width="841" height="488" alt="image" src="https://github.com/user-attachments/assets/97f80e9d-d0d8-4550-bc64-55f178220824" />
 
