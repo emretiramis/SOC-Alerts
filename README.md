@@ -10,7 +10,8 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 016 | *SOC104 - Malware Detected EventID 84* | Web Attacks | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
+| 017 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
+| 016 | *SOC104 - Malware Detected EventID 84* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
 | 015 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
 | 014 | *SOC138 - Detected Suspicious Xls File* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC138-DetectedSuspiciousXlsFile.md) |
 | 013 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
