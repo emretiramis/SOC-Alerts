@@ -10,6 +10,7 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 016 | *SOC104 - Malware Detected EventID 84* | Web Attacks | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
 | 015 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
 | 014 | *SOC138 - Detected Suspicious Xls File* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC138-DetectedSuspiciousXlsFile.md) |
 | 013 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
@@ -25,9 +26,6 @@ The table below outlines the investigated security incidents. Click on the link 
 | 003 | *SOC119 - Proxy - Malicious Executable File Detected* | Proxy | 🟢 False Positive | [📄 View Writeup](./writeups/SOC119-Proxy-MaliciousExecutableFileDetected.md) |
 | 002 | *SOC109 - Emotet Malware Investigation* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC109-EmotetMalwareDetected.md) |
 | 001 | *SOC104 - Malware Detected* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetected.md) |
-
-
-
 
 
 
