@@ -10,8 +10,8 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 017 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
-| 016 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
+| 018 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
+| 017 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
 | 016 | *SOC104 - Malware Detected EventID 84* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
 | 015 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
 | 014 | *SOC138 - Detected Suspicious Xls File* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC138-DetectedSuspiciousXlsFile.md) |
