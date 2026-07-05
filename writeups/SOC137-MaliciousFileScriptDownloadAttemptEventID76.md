@@ -4,6 +4,7 @@
 
 An alert detected an attempt by endpoint **172.16.17.37** to download a DOCM file named **INVOICE PACKAGE LINK TO DOWNLOAD.docm**. The file hash was verified via VirusTotal and confirmed to be malicious. Examination of SIEM and endpoint telemetry revealed that the download attempt was successfully blocked by security control. No IOCs related to file execution, PowerShell/WMIC execution, child process creation, or C2 communication were detected during the alert time period. The event was assessed as **True Positive**, and no active compromise was found.
 
+---
 
 On March 14th, a user attempted to download a .docm file known to be malicious.
 
