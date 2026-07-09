@@ -1,6 +1,6 @@
 # 	SOC105 - Requested T.I. URL address EventID 75
 
-This alert was triggered due to a connection attempt to the URL https://bit.ly/TAPSCAN, which redirected traffic through the IP address 67.199.248.10. The investigation focused on identifying any indicators of compromise (IOC) related to the destination IP, URL, and endpoint activity.
+This alert was triggered due to a connection attempt to the URL bit[.]ly/TAPSCAN, which redirected traffic through the IP address 67[.]199[.]248[.]10. The investigation focused on identifying any indicators of compromise (IOC) related to the destination IP, URL, and endpoint activity.
 
 ---
 
