@@ -12,7 +12,7 @@ Investigated the destination IP address (67[.]199[.]248[.]10) using threat intel
 
 <img width="2560" height="1080" alt="image" src="https://github.com/user-attachments/assets/32c37c52-275b-494e-9645-2148092a89dd" />
 
-Analyzed the shortened URL (https://bit[.]ly/TAPSCAN) for malicious reputation or known phishing/malware associations.
+Analyzed the shortened URL (bit[.]ly/TAPSCAN) for malicious reputation or known phishing/malware associations.
 
 <img width="2560" height="1093" alt="image" src="https://github.com/user-attachments/assets/2fb90bea-1177-4bea-b96a-85b5f02f4286" />
 
