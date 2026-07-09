@@ -10,10 +10,11 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 018 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
-| 017 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
-| 016 | *SOC104 - Malware Detected EventID 84* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
-| 015 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
+| 019 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
+| 018 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
+| 017 | *SOC104 - Malware Detected EventID 84* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
+| 016 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
+| 015 | *SOC105 - Requested T.I. URL address EventID 75* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC105-RequestedTIURLaddressEventID75.md.md) |
 | 014 | *SOC138 - Detected Suspicious Xls File* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC138-DetectedSuspiciousXlsFile.md) |
 | 013 | *SOC168 - Whoami Command Detected in Request Body* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC168-WhoamiCommandDetectedinRequestBody.md) |
 | 012 | *SOC167 - LS Command Detected in Requested URL* | Web Attacks | 🟢 False Positive | [📄 View Writeup](./writeups/SOC167-LSCommandDetectedinRequestedURL.md) |
@@ -34,4 +35,4 @@ The table below outlines the investigated security incidents. Click on the link 
 
 *Note: As seen in my repository structure, all detailed incident reports are stored natively within the `writeups/` directory. This repository is updated regularly as I complete new alerts and expand my defensive security skillset.*
 
-SOC137-MaliciousFileScriptDownloadAttemptEventID76.md
+
