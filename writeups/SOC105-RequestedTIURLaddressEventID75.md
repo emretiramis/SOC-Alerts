@@ -6,13 +6,13 @@ This alert was triggered due to a connection attempt to the URL https://bit.ly/T
 
 <img width="2278" height="444" alt="image" src="https://github.com/user-attachments/assets/e89ff5c4-7f54-47fa-8bd4-2a490a420b09" />
 
-Investigated the destination IP address (67.199.248.10) using threat intelligence sources.
+Investigated the destination IP address (67[.]199[.]248[.]10) using threat intelligence sources.
 
 <img width="900" height="587" alt="image" src="https://github.com/user-attachments/assets/9f99b177-783a-4918-8f71-95174a1cdd5e" />
 
 <img width="2560" height="1080" alt="image" src="https://github.com/user-attachments/assets/32c37c52-275b-494e-9645-2148092a89dd" />
 
-Analyzed the shortened URL (https://bit.ly/TAPSCAN) for malicious reputation or known phishing/malware associations.
+Analyzed the shortened URL (https://bit[.]ly/TAPSCAN) for malicious reputation or known phishing/malware associations.
 
 <img width="2560" height="1093" alt="image" src="https://github.com/user-attachments/assets/2fb90bea-1177-4bea-b96a-85b5f02f4286" />
 
