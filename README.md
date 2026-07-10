@@ -10,8 +10,9 @@ The table below outlines the investigated security incidents. Click on the link 
 
 | No | Case | Type | Verdict | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 020 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
-| 019 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
+| 021 | *SOC145 - Ransomware Detected EventID 92* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC145-RansomwareDetectedEventID92.md) |
+| 020 | *SOC137 - Malicious File Script Download Attempt EventID 76* | Malware | 🔴 True Positive | [📄 View Writeup](./writeups/SOC137-MaliciousFileScriptDownloadAttemptEventID76.md) |
+| 019 | *SOC335 - CVE-2024-49138 Exploitation Detected EventID 313* | Privilege Escalation | 🔴 True Positive | [📄 View Writeup](./writeups/SOC335-CVE-2024-49138ExploitationDetectedEventID313.md) |
 | 018 | *SOC104 - Malware Detected EventID 84* | Malware | 🟢 False Positive | [📄 View Writeup](./writeups/SOC104-MalwareDetectedEventID84.md) |
 | 017 | *SOC169 - Possible IDOR Attack Detected* | Web Attacks | 🔴 True Positive | [📄 View Writeup](./writeups/SOC169-PossibleIDORAttackDetected.md) |
 | 016 | *SOC146 - Phishing Mail Detected-Excel 4.0 Macros Event ID 93* | Exchange | 🔴 True Positive | [📄 View Writeup](./writeups/SOC146-PhishingMailDetected-Excel4MacrosEventID93.md) |
