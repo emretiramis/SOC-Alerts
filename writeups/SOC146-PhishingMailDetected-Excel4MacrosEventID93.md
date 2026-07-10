@@ -1,8 +1,17 @@
 # SOC146 - Phishing Mail Detected - Excel 4.0 Macros
 
+This report summarizes the incident response and analysis process performed following a phishing email alert (SOC146) containing a suspicious Excel 4.0 macro.
+
+---
+
+
 <img width="2260" height="410" alt="image" src="https://github.com/user-attachments/assets/e3bc889e-d86d-43cc-baca-dff0d69ac876" />
 
+The email that triggered the alert has been thoroughly examined, and a suspicious ZIP archive has been found as an attachment.
+
 <img width="1385" height="957" alt="image" src="https://github.com/user-attachments/assets/e8e2f9fb-1755-403d-89b0-5eb3f7fd2fde" />
+
+Analysis of the ZIP file revealed three malicious files, one of which was found to initiate harmful network connections to the outside world.
 
 <img width="1410" height="971" alt="image" src="https://github.com/user-attachments/assets/eac93928-6d40-4302-834a-43c707ee24ee" />
 
@@ -22,11 +31,11 @@ some suspected urls shown in the virustotal results.
 
 <img width="1173" height="192" alt="image" src="https://github.com/user-attachments/assets/8f750473-4300-4d24-b171-7056d5ffaf2b" />
 
-I checked the browser history of endpoint. Endpoint connected the malicious url.
+Analysis of the logs on the affected user's device confirmed network traffic directed to the malicious addresses in question.
 
 <img width="1413" height="973" alt="image" src="https://github.com/user-attachments/assets/732fcd31-13c7-4642-b57a-81e95f4d0cc4" />
 
-contained the machine.
+To prevent the potential spread of the detected security breach across the network, the affected device was immediately isolated.
 
 <img width="1421" height="981" alt="image" src="https://github.com/user-attachments/assets/afa2c67e-39f6-46ac-a0f1-6c81d0cb4ab7" />
 
