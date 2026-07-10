@@ -1,6 +1,6 @@
 # SOC145 - Ransomware Detected EventID 92
 
-<img width="1398" height="946" alt="image" src="https://github.com/user-attachments/assets/8074803f-1cb3-47bb-bcf6-b31d3817b344" /># Ransomware Detected EventID 92
+<img width="1398" height="946" alt="image" src="https://github.com/user-attachments/assets/8074803f-1cb3-47bb-bcf6-b31d3817b344" />
 
 ---
 
