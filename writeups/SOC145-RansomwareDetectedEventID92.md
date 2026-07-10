@@ -3,14 +3,14 @@
 Initially, a "Ransomware Detected" alarm was triggered in the SIEM/EDR console from the MarkPRD (172.16.17.88) host. When starting Triage, the first thing I always look at is: which host, which user, which file, and when. Here, the culprit file is clear: ab.exe.
 
 File downloaded (ab.exe) → not blocked
-→ VirusTotal: malicious (ransomware)
-→ ANY.RUN detonation: high-risk behavior
-→ wbadmin.exe spawn → attempted to delete backup/shadow copy
-→ attempted lateral movement via SMB
-→ Endpoint telemetry: ab.exe + wbadmin.exe running (verified) → Network: no C2 traffic
-→ Containment: host isolated
-→ Verdict: True Positive
-→ urgent escalation to L2/L3
+- → VirusTotal: malicious (ransomware)
+- → ANY.RUN detonation: high-risk behavior
+- → wbadmin.exe spawn → attempted to delete backup/shadow copy
+- → attempted lateral movement via SMB
+- → Endpoint telemetry: ab.exe + wbadmin.exe running (verified) → Network: no C2 traffic
+- → Containment: host isolated
+- → Verdict: True Positive
+- → urgent escalation to L2/L3
 
 <img width="1398" height="946" alt="image" src="https://github.com/user-attachments/assets/8074803f-1cb3-47bb-bcf6-b31d3817b344" />
 
